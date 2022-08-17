@@ -1,5 +1,5 @@
 
-> Open this page at [https://derv6464.github.io/buttontime/](https://derv6464.github.io/buttontime/)
+This tracks the time between button presses
 
 ## Use as Extension
 
