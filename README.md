@@ -1,5 +1,5 @@
 
-This tracks the time between button presses
+Times the amount of time a button was held on a Micro:Bit
 
 ## Use as Extension
 
